@@ -1,9 +1,26 @@
 .text-portfolio{
-    color: #6f42c1;
+    color: #8e0fbe;
 }
 
 .btn-portfolio {
     color: #fff;
-    background-color: #6f42c1;
-    border-color: #6f42c1;
+    background-color: #8e0fbe;
+    border-color: #8e0fbe;
+}
+
+.btn-portfolio:hover {
+    color: #fff;
+    background-color: #6239ad;
+    border-color: #563494;
+  }
+
+  .bg-portfolio {
+    background-color: #8e0fbe;
+  }
+
+  .link-portfolio {
+    color: #8b08bd;
+  }
+  .link-portfolio:hover, .link-portfolio:focus {
+    color: #5a027d;
   }
